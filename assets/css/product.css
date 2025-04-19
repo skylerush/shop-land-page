@@ -33,4 +33,20 @@
     font-size: 1.2rem;
     margin-left: 8px;
 }
-  
+
+.custom-section {
+    padding: 32px;
+    text-align: center;
+}
+
+.custom-section h2 {
+    color: #612999;
+    font-size: 28px;
+}
+
+.custom-section img {
+    margin-top: 16px;
+    border-radius: 16px;
+    max-width: 80%;
+    height: auto;
+}
